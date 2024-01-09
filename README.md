@@ -36,21 +36,4 @@ Dedico meu tempo em estudar sobre Desenvolvimento Front-End, voltada principalme
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-
-<img src="https://raw.githubusercontent.com/Lia-Comonelli/Lia-Comonelli/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=0&unique=true" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lia-Comonelli.Lia-Comonelli&right_color=mediumpurple"  />
-</div>
-
-###
