@@ -3,6 +3,8 @@ Frontend Developer & UI Designer
 
 ![LinkedIn](https://img.shields.io/badge/Lia_Comonelli-986DFF?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/lia-comonelli-b90525207)
 ![Gmail](https://img.shields.io/badge/ldsacomonelli@gmail.com-986DFF?style=flat-square&logo=gmail&logoColor=white&link=mailto:ldsacomonelli@gmail.com)
+![CodePen](https://img.shields.io/badge/Lia_Comonelli-986DFF?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/Lia-Comonelli)
+
 
 Dedico meu tempo em estudar sobre Desenvolvimento Front-End, voltada principalmente em UI Designer que é uma área que me identifico muito por conter elementos que sempre tive muito apreço, a arte.
 
